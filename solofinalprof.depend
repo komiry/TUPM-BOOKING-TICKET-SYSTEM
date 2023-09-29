@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654784829 source:c:\users\admin\documents\c prog\solofinalprof\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+

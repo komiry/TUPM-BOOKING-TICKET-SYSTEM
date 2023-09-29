@@ -1,0 +1,7 @@
+
+	Flight number:	1
+	Total Seats booked:	1
+	Money transacted for Flight number1:	1200
+
+
+			Total:	1200
